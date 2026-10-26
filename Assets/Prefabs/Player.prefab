@@ -49,8 +49,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RB: {fileID: 7325685880339890275}
   ScoreText: {fileID: 0}
+  LivesText: {fileID: 0}
   Speed: 5
   Score: 0
+  SpawnRequirement: 5
+  Lives: 3
+  Hazard: {fileID: 0}
 --- !u!212 &1019695680463351993
 SpriteRenderer:
   serializedVersion: 2
